@@ -92,7 +92,7 @@ The dataset includes transactional sales data along with customer and product in
 - August, September, and October sales are tracked.
 - Sales peaked in **September**, largely due to **Jeans and Watch** purchases.
 
-![Monthly Sales](images/monthly-sales-chart.png)
+
 
 ---
 
@@ -103,7 +103,6 @@ The dataset includes transactional sales data along with customer and product in
   - **C004 (David)** – ₹1,700 (Jeans)
   - **C002 (Bob)** – ₹1,075 (T-Shirt, Jeans)
 
-![Customer Sales](images/customer-sales.png)
 
 ---
 
@@ -119,7 +118,7 @@ The dataset includes transactional sales data along with customer and product in
 
 - **Mumbai** leads in sales due to multiple high-ticket purchases.
 
-![City Sales](images/city-wise-sales.png)
+
 
 ---
 
@@ -137,7 +136,6 @@ The dataset includes transactional sales data along with customer and product in
 - **Jeans and Watch** dominate the revenue chart.
 - Least selling product: **Cap**
 
-![Product Sales](images/product-sales.png)
 
 ---
 
