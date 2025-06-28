@@ -153,9 +153,10 @@ The dataset includes transactional sales data along with customer and product in
 
 ---
 
-🙌 Author
-BIMAL KUMAR SAINI
-Data Analyst Intern
-📧 bimalsaini333@gmail.com
+## 🙌 Author
+
+BIMAL KUMAR SAINI         
+Data Analyst Intern                
+📧 bimalsaini333@gmail.com                              
 🔗 [LinkedIn][https://www.linkedin.com/in/bimalsaini333/] | [GitHub][https://github.com/SainiBimal]
 
