@@ -1,5 +1,5 @@
 # Sales-Analysis
-This repository presents an interactive **Sales Analysis Dashboard** built using Excel and SQL.
+This repository presents an interactive **Sales Analysis Dashboard** built using Excel and  SQL.
 
 
 ---------------
